@@ -10,3 +10,5 @@ Import Numpy library as np
 Print("Hello Capstone Project Course!")
 
 
+$ ssh-keygen -t rsa -b 4096 -C "wq19906@bristol.ac.uk"
+
