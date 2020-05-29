@@ -1,14 +1,59 @@
-# Capstone
-
-this notebook will be mainly used for the capstone project
-
-Import pandas as pd
-
-Import Numpy library as np
-
-
-Print("Hello Capstone Project Course!")
-
-
-$ ssh-keygen -t rsa -b 4096 -C "wq19906@bristol.ac.uk"
-
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "This is for coursera capstone\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 2,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "import pandas as pd\n",
+    "import numpy as np"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 6,
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "Hello Capstone Project Course!\n"
+     ]
+    }
+   ],
+   "source": [
+    "print(\"Hello Capstone Project Course!\")"
+   ]
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.7.6"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 4
+}
